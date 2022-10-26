@@ -1,4 +1,8 @@
-# Voting-DSA
+# 線上投票系統
+
+![](https://img.shields.io/github/contributors/oxygen-TW/Voting-DSA?logoColor=green&style=flat-square)
+[![hackmd-github-sync-badge](https://hackmd.io/dE3QW7UHRBSAPAcO1pYpLw/badge)](https://hackmd.io/dE3QW7UHRBSAPAcO1pYpLw)
+
 
 清大學生會首個線上投票系統上線啦～
 
@@ -213,8 +217,8 @@ auth.obtainServiceToken('108060001', user);
      
 # TODO 111-2
 
-- [ ] 新增編輯投票人名單 UI
-- [ ] 新增選舉活動、候選人增修查改 UI
+- [X] 新增編輯投票人名單 UI
+- [X] 新增選舉活動、候選人增修查改 UI
 - [ ] 將介面「我不投給他」改成「反對」
 - [ ] 介面增加**一人多票**的說明
 - [ ] 候選人增加一欄「參選執行長意願」
